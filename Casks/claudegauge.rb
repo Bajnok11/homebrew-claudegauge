@@ -7,7 +7,7 @@ cask "claudegauge" do
   desc "Unofficial menu bar app and desktop widget for tracking Claude usage limits"
   homepage "https://github.com/Bajnok11/ClaudeGauge"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "ClaudeGauge.app"
 
