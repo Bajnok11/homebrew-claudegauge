@@ -1,6 +1,6 @@
 cask "claudegauge" do
-  version "0.4.0"
-  sha256 "b87714d1c6a428901fb1ff0504616a5c5698779df1cf3a473cbb62e7b2c74e6a"
+  version "0.4.1"
+  sha256 "aec621cd7425c2f9a3851959e90032c67457bb94da1aad08988e49ef79ed2364"
 
   url "https://github.com/Bajnok11/ClaudeGauge/releases/download/v#{version}/ClaudeGauge-#{version}.dmg"
   name "ClaudeGauge"
